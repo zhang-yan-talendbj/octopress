@@ -7,10 +7,10 @@ categories:
 ---
 
 set http_proxy=http://xxx.xxx.xxx.xxx:xxx
-xxxµØ·½ÎªÄã´úÀí·şÎñÆ÷µÄ¶Ë¿ÚºÅ,±ÈÈçset http_proxy=http://192.128.0.1:1080
+xxxåœ°æ–¹ä¸ºä½ ä»£ç†æœåŠ¡å™¨çš„ç«¯å£å·,æ¯”å¦‚set http_proxy=http://192.128.0.1:1080
 
-Èç¹ûÓĞÃÜÂëÏŞÖÆ,ÊäÈëÈçÏÂÁ½ÌõÃüÁî¾Í¿ÉÒÔÁË
+å¦‚æœæœ‰å¯†ç é™åˆ¶,è¾“å…¥å¦‚ä¸‹ä¸¤æ¡å‘½ä»¤å°±å¯ä»¥äº†
 set http_proxy_user=xxx
 set http_proxy_pass=xxx 
 
-[×ª×Ô](http://dark.iteye.com/blog/64969)
+[è½¬è‡ª](http://dark.iteye.com/blog/64969)

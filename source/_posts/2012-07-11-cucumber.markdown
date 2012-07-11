@@ -7,8 +7,8 @@ categories:
 ---
 
 Scenario Outline
-×¢Òâ×Ö·ûÒªÓÃË«ÒıºÅ
-±ÈÈç
+æ³¨æ„å­—ç¬¦è¦ç”¨åŒå¼•å·
+æ¯”å¦‚
 		Examples: this is a simple example
     | name | greeting | 
     | "bruce" | "Hello World, bruce" |
