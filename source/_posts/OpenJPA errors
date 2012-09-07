@@ -7,3 +7,4 @@ java.lang.NoClassDefFoundError: Could not initialize class com.caribe.stone.doma
 @Entity
 public class Wife extends IdEntity {
 去掉 IdEntity就可以了.晕呀
+
