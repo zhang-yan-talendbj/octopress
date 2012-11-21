@@ -8,6 +8,6 @@ categories:
 
 mvn help:effective -Doutput=a.txt
 
-±àÒë³öÎÊÌâÁË£¬ÊÇjar°üµÄÎÊÌâÃ´£¿ÓÐ¿ÉÒÔÊÇmavenÏÂÔØ¹ý³ÌÖÐ³öµÄÎÊÌâ¡£
-É¾³ýÏà¹Øjar°ü£¬ÎÊÌâ½â¾ö.
-·ÖÎöÔ­Òò£¬ÓÐ¿ÉÄÜÊÇ¹«Ë¾ÍøÂçÌ«Âý¡£µ¼ÖÂÏÂÔØÎÄ¼þÊ±³ö´í¡£¡£¡£Ö»ÊÇ²Â²â¡£
+ç¼–è¯‘å‡ºé—®é¢˜äº†ï¼Œæ˜¯jaråŒ…çš„é—®é¢˜ä¹ˆï¼Ÿæœ‰å¯ä»¥æ˜¯mavenä¸‹è½½è¿‡ç¨‹ä¸­å‡ºçš„é—®é¢˜ã€‚
+åˆ é™¤ç›¸å…³jaråŒ…ï¼Œé—®é¢˜è§£å†³.
+åˆ†æžåŽŸå› ï¼Œæœ‰å¯èƒ½æ˜¯å…¬å¸ç½‘ç»œå¤ªæ…¢ã€‚å¯¼è‡´ä¸‹è½½æ–‡ä»¶æ—¶å‡ºé”™ã€‚ã€‚ã€‚åªæ˜¯çŒœæµ‹ã€‚

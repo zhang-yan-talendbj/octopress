@@ -6,92 +6,92 @@ comments: true
 categories: 
 ---
 
-¿ªÒô½Ú£¬±ÕÒô½Ú
+å¼€éŸ³èŠ‚ï¼Œé—­éŸ³èŠ‚
 
-ÔªÒô×Ö×é ie ÔÚÖØ¶ÁÒô½ÚÖÐ¶Á[i:]Òô,ieÔÚ[s]ÒôºóÆ´Ð´Îªei(¹æÔò±àºÅ6-18£©
+å…ƒéŸ³å­—ç»„ ie åœ¨é‡è¯»éŸ³èŠ‚ä¸­è¯»[i:]éŸ³,ieåœ¨[s]éŸ³åŽæ‹¼å†™ä¸ºei(è§„åˆ™ç¼–å·6-18ï¼‰
 chief
 
-ÔªÒô×ÖÄ¸ o ÔÚ±ÕÒô½ÚÖÐ¶Á[]Òô(¹æÔò±àºÅ1-08£©
+å…ƒéŸ³å­—æ¯ o åœ¨é—­éŸ³èŠ‚ä¸­è¯»[]éŸ³(è§„åˆ™ç¼–å·1-08ï¼‰
 office
 
-¿ªÒô½Ú£¬±ÕÒô½Ú
+å¼€éŸ³èŠ‚ï¼Œé—­éŸ³èŠ‚
 
-ÔªÒô×ÖÄ¸ e ÔÚ±ÕÒô½ÚÖÐ¶Á[e]Òô(¹æÔò±àºÅ1-04£©
+å…ƒéŸ³å­—æ¯ e åœ¨é—­éŸ³èŠ‚ä¸­è¯»[e]éŸ³(è§„åˆ™ç¼–å·1-04ï¼‰
 
-Òô½ÚµÄ»®·ÖºÍÒÆÐÐ¹æÔò
+éŸ³èŠ‚çš„åˆ’åˆ†å’Œç§»è¡Œè§„åˆ™
 
  
 
-ÕýÈ·ÕÆÎÕ»®·ÖÒô½ÚµÄ·½·¨£¬¿ÉÒÔ°ïÖúÎÒÃÇÕÆÎÕ¶ÁÒô¹æÔò£¬°ïÖúÎÒÃÇ¼ÇÒäµ¥´ÊÆ´Ð´£¬Ò²¿É°ïÖúÎÒÃÇ±ÜÃâ¡¢¿Ë·þÊéÐ´ÖÐËæÒâÒÆÐÐµÄ²»Á¼Ï°¹ß¡£ÏÖ¾Í³£¼ûµÄ»®·ÖÒô½ÚµÄ·½·¨¼ò½éÈçÏÂ¡£
+æ­£ç¡®æŽŒæ¡åˆ’åˆ†éŸ³èŠ‚çš„æ–¹æ³•ï¼Œå¯ä»¥å¸®åŠ©æˆ‘ä»¬æŽŒæ¡è¯»éŸ³è§„åˆ™ï¼Œå¸®åŠ©æˆ‘ä»¬è®°å¿†å•è¯æ‹¼å†™ï¼Œä¹Ÿå¯å¸®åŠ©æˆ‘ä»¬é¿å…ã€å…‹æœä¹¦å†™ä¸­éšæ„ç§»è¡Œçš„ä¸è‰¯ä¹ æƒ¯ã€‚çŽ°å°±å¸¸è§çš„åˆ’åˆ†éŸ³èŠ‚çš„æ–¹æ³•ç®€ä»‹å¦‚ä¸‹ã€‚
 
-1£®Ò»¸öÒô½ÚÖÁÉÙÓÐÒ»¸öÔªÒô×ÖÄ¸¡£¼´a£¬e£¬i£¬o£¬»òu£¬ÓÐÊ±Ò²¿ÉÒÔÊÇy¡£ÀýÈç£º
+1ï¼Žä¸€ä¸ªéŸ³èŠ‚è‡³å°‘æœ‰ä¸€ä¸ªå…ƒéŸ³å­—æ¯ã€‚å³aï¼Œeï¼Œiï¼Œoï¼Œæˆ–uï¼Œæœ‰æ—¶ä¹Ÿå¯ä»¥æ˜¯yã€‚ä¾‹å¦‚ï¼š
 
-re£¯fuse£¬un£¯com£¯for£¯ta£¯ble£¬jum£¯ping£¬a£¯void£¯ed£¬gar£¯lic£¬for£¯ty
+reï¼fuseï¼Œunï¼comï¼forï¼taï¼bleï¼Œjumï¼pingï¼Œaï¼voidï¼edï¼Œgarï¼licï¼Œforï¼ty
 
-2£®µ±Á½¸öÔªÒô×ÖÄ¸ÖÐ¼äÖ»ÓÐÒ»¸ö¸¨Òô×ÖÄ¸Ê±£¨¸¨Òô×ÖÄ¸r³ýÍâ£©£¬¶øÇÒ×ó±ßµÄÔªÒôÓÖÊÇ°´ÖØ¶Á¿ªÒô½Ú¹æÔò·¢Òô£¬Õâ¸ö¸¨Òô×ÖÄ¸Í¨³£»®ÈëÓÒ±ßµÄÒô½Ú¡£ÀýÈç£º
+2ï¼Žå½“ä¸¤ä¸ªå…ƒéŸ³å­—æ¯ä¸­é—´åªæœ‰ä¸€ä¸ªè¾…éŸ³å­—æ¯æ—¶ï¼ˆè¾…éŸ³å­—æ¯ré™¤å¤–ï¼‰ï¼Œè€Œä¸”å·¦è¾¹çš„å…ƒéŸ³åˆæ˜¯æŒ‰é‡è¯»å¼€éŸ³èŠ‚è§„åˆ™å‘éŸ³ï¼Œè¿™ä¸ªè¾…éŸ³å­—æ¯é€šå¸¸åˆ’å…¥å³è¾¹çš„éŸ³èŠ‚ã€‚ä¾‹å¦‚ï¼š
 
-stu£¯dent£¬o£¯pen£¬pa£¯per£¬va£¯cant£¬fa£¯tal£¬pi£¯lot
+stuï¼dentï¼Œoï¼penï¼Œpaï¼perï¼Œvaï¼cantï¼Œfaï¼talï¼Œpiï¼lot
 
-3£®Á½¸öÔªÒôÖ®¼äÖ»ÓÐÒ»¸ö¸¨Òô×ÖÄ¸»ò¸¨Òô×ÖÄ¸×éºÏ£¬×ó±ßµÄÔªÒô°´ÖØ¶Á±ÕÒô½Ú¹æÔò·¢Òô£¬ÄÇÃ´£¬Õâ¸ö¸¨Òô×ÖÄ¸»ò¸¨Òô×ÖÄ¸×éºÏÍ¨³£»®Èë×ó±ßµÄÒô½Ú¡£ÀýÈç£º
+3ï¼Žä¸¤ä¸ªå…ƒéŸ³ä¹‹é—´åªæœ‰ä¸€ä¸ªè¾…éŸ³å­—æ¯æˆ–è¾…éŸ³å­—æ¯ç»„åˆï¼Œå·¦è¾¹çš„å…ƒéŸ³æŒ‰é‡è¯»é—­éŸ³èŠ‚è§„åˆ™å‘éŸ³ï¼Œé‚£ä¹ˆï¼Œè¿™ä¸ªè¾…éŸ³å­—æ¯æˆ–è¾…éŸ³å­—æ¯ç»„åˆé€šå¸¸åˆ’å…¥å·¦è¾¹çš„éŸ³èŠ‚ã€‚ä¾‹å¦‚ï¼š
 
-moth£¯er£¬slith£¯er
+mothï¼erï¼Œslithï¼er
 
-4£®Èç¹ûÁ½¸öÔªÒô×ÖÄ¸ÖÐ¼äÓÐÁ½¸ö¸¨Òô×ÖÄ¸£¬Í¨³£ÕâÁ½¸ö¸¨Òô×ÖÄ¸·Ö±ð»®Èë×óÓÒÁ½¸öÒô½Ú¡£ÀýÈç£º
+4ï¼Žå¦‚æžœä¸¤ä¸ªå…ƒéŸ³å­—æ¯ä¸­é—´æœ‰ä¸¤ä¸ªè¾…éŸ³å­—æ¯ï¼Œé€šå¸¸è¿™ä¸¤ä¸ªè¾…éŸ³å­—æ¯åˆ†åˆ«åˆ’å…¥å·¦å³ä¸¤ä¸ªéŸ³èŠ‚ã€‚ä¾‹å¦‚ï¼š
 
-mem£¯ber£¬les£¯son£¬col£¯lect£¬shal£¯low£¬hap£¯pen£¬dis£¯tant
+memï¼berï¼Œlesï¼sonï¼Œcolï¼lectï¼Œshalï¼lowï¼Œhapï¼penï¼Œdisï¼tant
 
-5£®Èç¹ûÁ½¸öÔªÒô×ÖÄ¸ÖÐ¼äÓÐÁ½¸ö¸¨Òô×ÖÄ¸£¬µÚÒ»¸öÊÇr£¬ÕâÁ½¸ö¸¨Òô×ÖÄ¸£¬Ò²·Ö±ð»®Èë×óÓÒÁ½¸öÒô½Ú¡£µÚÒ»¸öÒô½Ú£¨×ó±ßÄÇ¸öÒô½Ú£©³ÆÎªrÒô½Ú£¬°´ÖØ¶ÁrÒô½Ú¶ÁÒô¹æÔò·¢Òô¡£ÀýÈç£º
+5ï¼Žå¦‚æžœä¸¤ä¸ªå…ƒéŸ³å­—æ¯ä¸­é—´æœ‰ä¸¤ä¸ªè¾…éŸ³å­—æ¯ï¼Œç¬¬ä¸€ä¸ªæ˜¯rï¼Œè¿™ä¸¤ä¸ªè¾…éŸ³å­—æ¯ï¼Œä¹Ÿåˆ†åˆ«åˆ’å…¥å·¦å³ä¸¤ä¸ªéŸ³èŠ‚ã€‚ç¬¬ä¸€ä¸ªéŸ³èŠ‚ï¼ˆå·¦è¾¹é‚£ä¸ªéŸ³èŠ‚ï¼‰ç§°ä¸ºréŸ³èŠ‚ï¼ŒæŒ‰é‡è¯»réŸ³èŠ‚è¯»éŸ³è§„åˆ™å‘éŸ³ã€‚ä¾‹å¦‚ï¼š
 
-cor£¯ner£¬por£¯trait£¬har£¯bor£¬bar£¯ber
+corï¼nerï¼Œporï¼traitï¼Œharï¼borï¼Œbarï¼ber
 
-6£®Èç¹ûÁ½¸öÔªÒô»òÔªÒôºÍ°ëÔªÒô×ÖÄ¸×éºÏ·¢µÄÊÇÒ»¸öÔªÒô»òË«ÔªÒô£¬»®·ÖÒô½ÚÊ±£¬²»ÄÜ½«Æä´ÓÖÐ·Ö¿ª£¬Òª»®ÔÚÒ»Æð¡£ÀýÈç£º
+6ï¼Žå¦‚æžœä¸¤ä¸ªå…ƒéŸ³æˆ–å…ƒéŸ³å’ŒåŠå…ƒéŸ³å­—æ¯ç»„åˆå‘çš„æ˜¯ä¸€ä¸ªå…ƒéŸ³æˆ–åŒå…ƒéŸ³ï¼Œåˆ’åˆ†éŸ³èŠ‚æ—¶ï¼Œä¸èƒ½å°†å…¶ä»Žä¸­åˆ†å¼€ï¼Œè¦åˆ’åœ¨ä¸€èµ·ã€‚ä¾‹å¦‚ï¼š
 
-oi boil£¯er£»oy voy£¯age£»ou through£¯out£»ow tow£¯er
+oi boilï¼erï¼›oy voyï¼ageï¼›ou throughï¼outï¼›ow towï¼er
 
-7£®ÓÐÐ©¸¨Òô×ÖÄ¸¾­³£ÔÚÒ»Æð£¬Ö»·¢Ò»¸ö¸¨Òô£¬»òÕßÁªÏµºÜ½ôÃÜ¡£»®·ÖÒô½ÚÊ±£¬Ò²²»ÄÜ½«Æä·Ö¿ª¡£ÀýÈç£º
+7ï¼Žæœ‰äº›è¾…éŸ³å­—æ¯ç»å¸¸åœ¨ä¸€èµ·ï¼Œåªå‘ä¸€ä¸ªè¾…éŸ³ï¼Œæˆ–è€…è”ç³»å¾ˆç´§å¯†ã€‚åˆ’åˆ†éŸ³èŠ‚æ—¶ï¼Œä¹Ÿä¸èƒ½å°†å…¶åˆ†å¼€ã€‚ä¾‹å¦‚ï¼š
 
-ph tele£¯phone£»sh ush£¯er£»th pa£¯thetic£»wh a£¯while
+ph teleï¼phoneï¼›sh ushï¼erï¼›th paï¼theticï¼›wh aï¼while
 
-8£®¸¨Òô×ÖÄ¸×éºÏ¹¹³É·¢ÒôµÄ¸¨ÒôÁ¬×º£¬»®·ÖÒô½ÚÊ±£¬Ò²²»ÄÜ½«Æä·Ö¿ª¡£ÀýÈç£º
+8ï¼Žè¾…éŸ³å­—æ¯ç»„åˆæž„æˆå‘éŸ³çš„è¾…éŸ³è¿žç¼€ï¼Œåˆ’åˆ†éŸ³èŠ‚æ—¶ï¼Œä¹Ÿä¸èƒ½å°†å…¶åˆ†å¼€ã€‚ä¾‹å¦‚ï¼š
 
-de£¯sroy£¬ex£¯pli£¯cit£¬pre£¯scribe£¬in£¯struc£¯tion
+deï¼sroyï¼Œexï¼pliï¼citï¼Œpreï¼scribeï¼Œinï¼strucï¼tion
 
-9£®Èç¹ûÒ»¸öµ¥´ÊÊÇÒÔ×ÖÄ¸-le½áÎ²£¬²¢ÇÒ¸¨Òô-leÇ°Ãæ»¹ÓÐÒ»¸ö¸¨Òô×ÖÄ¸£¬ÄÇÃ´Õâ¸ö¸¨Òô×ÖÄ¸Í¨³£»®·ÖÔÚÓÒ±ßÕâ¸öÒô½ÚÀï¡£ÒòÎª·¢ÒôÊ±£¬ÕâÊÇÒ»¸ö³ÉÒô½Ú¡£ÀýÈç£º
+9ï¼Žå¦‚æžœä¸€ä¸ªå•è¯æ˜¯ä»¥å­—æ¯-leç»“å°¾ï¼Œå¹¶ä¸”è¾…éŸ³-leå‰é¢è¿˜æœ‰ä¸€ä¸ªè¾…éŸ³å­—æ¯ï¼Œé‚£ä¹ˆè¿™ä¸ªè¾…éŸ³å­—æ¯é€šå¸¸åˆ’åˆ†åœ¨å³è¾¹è¿™ä¸ªéŸ³èŠ‚é‡Œã€‚å› ä¸ºå‘éŸ³æ—¶ï¼Œè¿™æ˜¯ä¸€ä¸ªæˆéŸ³èŠ‚ã€‚ä¾‹å¦‚ï¼š
 
-ta£¯ble£¬un£¯cle£¬mar£¯ble£¬peo £¯ple£¬hur£¯dle£¬sta£¯ble
+taï¼bleï¼Œunï¼cleï¼Œmarï¼bleï¼Œpeo ï¼pleï¼Œhurï¼dleï¼Œstaï¼ble
 
-µ«ÊÇ£¬ÒÔ-ckle½áÎ²µÄµ¥´ÊÀýÍâ¡£ÒòÎª¸¨Òô×ÖÄ¸-c²»·¢Òô£¬ËùÒÔ¸¨Òô×ÖÄ¸-ck»®·ÖÔÚ×ó±ßµÄÒô½ÚÀï¡£ÀýÈç£º
+ä½†æ˜¯ï¼Œä»¥-ckleç»“å°¾çš„å•è¯ä¾‹å¤–ã€‚å› ä¸ºè¾…éŸ³å­—æ¯-cä¸å‘éŸ³ï¼Œæ‰€ä»¥è¾…éŸ³å­—æ¯-ckåˆ’åˆ†åœ¨å·¦è¾¹çš„éŸ³èŠ‚é‡Œã€‚ä¾‹å¦‚ï¼š
 
-pick£¯le£¬buck£¯le£¬sick£¯le
+pickï¼leï¼Œbuckï¼leï¼Œsickï¼le
 
-10£®¼ÓÇ°×ºÊ±£¬Ç°×ºµ¥¶À»®ÎªÒ»¸ö»òÒ»¸öÒÔÉÏµÄÒô½Ú¡£ÀýÈç£º
+10ï¼ŽåŠ å‰ç¼€æ—¶ï¼Œå‰ç¼€å•ç‹¬åˆ’ä¸ºä¸€ä¸ªæˆ–ä¸€ä¸ªä»¥ä¸Šçš„éŸ³èŠ‚ã€‚ä¾‹å¦‚ï¼š
 
-dis£¯like£¬be£¯head£¬in£¯ac£¯tive£¬im£¯pos£¯si£¯ble£¬sem£¯i£¯cir£¯cle£¬su£¯per£¯man£¬o£¯ver£¯sleep£¬an£¯ti£¯air£¯craft
+disï¼likeï¼Œbeï¼headï¼Œinï¼acï¼tiveï¼Œimï¼posï¼siï¼bleï¼Œsemï¼iï¼cirï¼cleï¼Œsuï¼perï¼manï¼Œoï¼verï¼sleepï¼Œanï¼tiï¼airï¼craft
 
-11£®¼Óºó×ºÊ±£¬ºó×º²»Ó°ÏìÆäËûÒô½ÚµÄ»®·Ö¡£ÀýÈç£º
+11ï¼ŽåŠ åŽç¼€æ—¶ï¼ŒåŽç¼€ä¸å½±å“å…¶ä»–éŸ³èŠ‚çš„åˆ’åˆ†ã€‚ä¾‹å¦‚ï¼š
 
-paint£¯er£¬pass£¯a£¯ble£¬dif£¯fer£¯ent£¬fall£¯ing£¬friend£¯ship£¬seek£¯ers¶àÊýºó×ºÈç£­ing£¬£­ed£¬£­ment£¬£­ty£¬µ¥¶À»®·ÖÒô½Ú¡£
+paintï¼erï¼Œpassï¼aï¼bleï¼Œdifï¼ferï¼entï¼Œfallï¼ingï¼Œfriendï¼shipï¼Œseekï¼erså¤šæ•°åŽç¼€å¦‚ï¼ingï¼Œï¼edï¼Œï¼mentï¼Œï¼tyï¼Œå•ç‹¬åˆ’åˆ†éŸ³èŠ‚ã€‚
 
-12£®Èç¹ûºó×º-ed¼ÓÔÚÒÔ-t»ò-d½áÎ²µÄµ¥´ÊºóÃæ£¬·¢£¯£­id£¯£¬¹¹³ÉÒ»¸öÒô½Ú£¬Æ´Ð´Ê±¿Éµ¥¶À»®·ÖÎªÒ»¸öÒô½Ú£»·´Ö®£¬ÆäËûÇé¿öÏÂ²»ËãÒ»¸ö¶ÀÁ¢µÄÒô½Ú¡£ÀýÈç£º
+12ï¼Žå¦‚æžœåŽç¼€-edåŠ åœ¨ä»¥-tæˆ–-dç»“å°¾çš„å•è¯åŽé¢ï¼Œå‘ï¼ï¼idï¼ï¼Œæž„æˆä¸€ä¸ªéŸ³èŠ‚ï¼Œæ‹¼å†™æ—¶å¯å•ç‹¬åˆ’åˆ†ä¸ºä¸€ä¸ªéŸ³èŠ‚ï¼›åä¹‹ï¼Œå…¶ä»–æƒ…å†µä¸‹ä¸ç®—ä¸€ä¸ªç‹¬ç«‹çš„éŸ³èŠ‚ã€‚ä¾‹å¦‚ï¼š
 
-pre£¯dict£¯ed£¬test£¯ed£¬lift£¯ed£¬fin£¯ished£¬fol£¯lowed£¬un£¯fogged
+preï¼dictï¼edï¼Œtestï¼edï¼Œliftï¼edï¼Œfinï¼ishedï¼Œfolï¼lowedï¼Œunï¼fogged
 
-ÒÆÐÐ¹æÔòÊÇºÍÒô½Ú»®·ÖµÄÔ­ÔòÏàÒ»ÖÂµÄ£¬¼´ÒÆÐÐÖ»ÄÜÊ¼ÐÐÒô½ÚµÄ·Ö½ç´¦¡£¾¡¹ÜÈç´Ë£¬ÒÆÐÐºÍ»®·ÖÒô½ÚÈÔÓÐ¼¸µãÐèÒª×¢Òâ¡£
+ç§»è¡Œè§„åˆ™æ˜¯å’ŒéŸ³èŠ‚åˆ’åˆ†çš„åŽŸåˆ™ç›¸ä¸€è‡´çš„ï¼Œå³ç§»è¡Œåªèƒ½å§‹è¡ŒéŸ³èŠ‚çš„åˆ†ç•Œå¤„ã€‚å°½ç®¡å¦‚æ­¤ï¼Œç§»è¡Œå’Œåˆ’åˆ†éŸ³èŠ‚ä»æœ‰å‡ ç‚¹éœ€è¦æ³¨æ„ã€‚
 
-¢ÙÒÆÐÐÊ±£¬²»ÄÜÖ»½«´ÊÍ·»ò´ÊÎ²µÄÒ»¸ö×ÖÄ¸Í¬Õû¸öµ¥´Ê·Ö¿ª¡£ÀýÈç£¬¾¡¹Üµ¥´Êa£¯loneºÍpris£¯m¶¼ÓÐÁ½¸öÒô½Ú£¬µ«ÔÚÆ´Ð´ÒÆÐÐÊ±£¬¾ö²»ÄÜ½«ËüÃÇ·Ö¿ª¡£
+â‘ ç§»è¡Œæ—¶ï¼Œä¸èƒ½åªå°†è¯å¤´æˆ–è¯å°¾çš„ä¸€ä¸ªå­—æ¯åŒæ•´ä¸ªå•è¯åˆ†å¼€ã€‚ä¾‹å¦‚ï¼Œå°½ç®¡å•è¯aï¼loneå’Œprisï¼méƒ½æœ‰ä¸¤ä¸ªéŸ³èŠ‚ï¼Œä½†åœ¨æ‹¼å†™ç§»è¡Œæ—¶ï¼Œå†³ä¸èƒ½å°†å®ƒä»¬åˆ†å¼€ã€‚
 
-¢Ú»®·ÖÒô½ÚÒÆÐÐÊ±£¬ÓÐÐ©µ¥´ÊÍ¬Ê±·ûºÏ¼¸Ìõ¹æÔò£¬ÔòÑ¡ÆäÖÐ×îºÏÊÊµÄÒ»Ìõ¡£
+â‘¡åˆ’åˆ†éŸ³èŠ‚ç§»è¡Œæ—¶ï¼Œæœ‰äº›å•è¯åŒæ—¶ç¬¦åˆå‡ æ¡è§„åˆ™ï¼Œåˆ™é€‰å…¶ä¸­æœ€åˆé€‚çš„ä¸€æ¡ã€‚
 
-ÀýÈç£¬µ¥´Êbeating¼È·ûºÏµÚ11Ìõ¹æÔò¡ª¡ªºó×ºÒ»°ã²»Ó°ÏìÆäËûÒô½ÚµÄ»®·Ö£»Ò²·ûºÏµÚ2Ìõ¹æÔò¡ª¡ªÁ½¸öÔªÒôÖÐ¼äÖ»ÓÐÒ»¸ö¸¨Òô×ÖÄ¸Ê±£¬Õâ¸ö¸¨Òô×ÖÄ¸Í¨³£»®·ÖÔÚÓÒ±ßÕâ¸öÒô½Ú¡£µ«ÊÇÔÚbeatingÕâ¸öµ¥´ÊÀï£¬beatÊÇbase word£¬²»ÄÜ´ÓÖÐ·Ö¿ª£¬ËùÒÔÖ»ÄÜ½«ºó×º-ingµ¥¶À»®·ÖÒ»¸öÒô½Ú¡£
+ä¾‹å¦‚ï¼Œå•è¯beatingæ—¢ç¬¦åˆç¬¬11æ¡è§„åˆ™â€”â€”åŽç¼€ä¸€èˆ¬ä¸å½±å“å…¶ä»–éŸ³èŠ‚çš„åˆ’åˆ†ï¼›ä¹Ÿç¬¦åˆç¬¬2æ¡è§„åˆ™â€”â€”ä¸¤ä¸ªå…ƒéŸ³ä¸­é—´åªæœ‰ä¸€ä¸ªè¾…éŸ³å­—æ¯æ—¶ï¼Œè¿™ä¸ªè¾…éŸ³å­—æ¯é€šå¸¸åˆ’åˆ†åœ¨å³è¾¹è¿™ä¸ªéŸ³èŠ‚ã€‚ä½†æ˜¯åœ¨beatingè¿™ä¸ªå•è¯é‡Œï¼Œbeatæ˜¯base wordï¼Œä¸èƒ½ä»Žä¸­åˆ†å¼€ï¼Œæ‰€ä»¥åªèƒ½å°†åŽç¼€-ingå•ç‹¬åˆ’åˆ†ä¸€ä¸ªéŸ³èŠ‚ã€‚
 
-ÓÖÈç£¬rubbingÕâ¸ö´Ê£¬Ò²ÊÇ¼È·ûºÏµÚ11Ìõ¹æÔò£¬ÓÖ·ûºÏµÚ4Ìõ¹æÔò¡ª¡ªÈç¹ûÁ½¸öÔªÒô×ÖÄ¸ÖÐ¼äÓÐÁ½¸ö¸¨Òô×ÖÄ¸£¬ÕâÁ½¸ö¸¨Òô×ÖÄ¸Ôò·Ö±ð»®Èë×óÓÒÁ½¸öÒô½Ú¡£ºóÒ»¸ö¸¨Òô×ÖÄ¸-bÊÇÒòÎªbase word¡°rub¡±ÊÇÖØ¶Á±ÕÒô½Ú¶øË«Ð´µÄ£¬ÊôÓÚºó×ºµÄ·¶³ë£¬ËùÒÔÓ¦¸Ã»®ÔÚºó×ºÀï£¬Ð´³Érub£¯bing¡£
+åˆå¦‚ï¼Œrubbingè¿™ä¸ªè¯ï¼Œä¹Ÿæ˜¯æ—¢ç¬¦åˆç¬¬11æ¡è§„åˆ™ï¼Œåˆç¬¦åˆç¬¬4æ¡è§„åˆ™â€”â€”å¦‚æžœä¸¤ä¸ªå…ƒéŸ³å­—æ¯ä¸­é—´æœ‰ä¸¤ä¸ªè¾…éŸ³å­—æ¯ï¼Œè¿™ä¸¤ä¸ªè¾…éŸ³å­—æ¯åˆ™åˆ†åˆ«åˆ’å…¥å·¦å³ä¸¤ä¸ªéŸ³èŠ‚ã€‚åŽä¸€ä¸ªè¾…éŸ³å­—æ¯-bæ˜¯å› ä¸ºbase wordâ€œrubâ€æ˜¯é‡è¯»é—­éŸ³èŠ‚è€ŒåŒå†™çš„ï¼Œå±žäºŽåŽç¼€çš„èŒƒç•´ï¼Œæ‰€ä»¥åº”è¯¥åˆ’åœ¨åŽç¼€é‡Œï¼Œå†™æˆrubï¼bingã€‚
 
-¢Û·²ÊÂ¶¼ÓÐÀýÍâÇé¿ö¡£ÈçµÚ9Ìõ¹æÔò£¬Ò²ÓÐ²»ÉÙÀýÍâÇé¿ö£º
+â‘¢å‡¡äº‹éƒ½æœ‰ä¾‹å¤–æƒ…å†µã€‚å¦‚ç¬¬9æ¡è§„åˆ™ï¼Œä¹Ÿæœ‰ä¸å°‘ä¾‹å¤–æƒ…å†µï¼š
 
-doub£¯le£¬start£¯le£¬coup£¯le£¬ spark£¯le
+doubï¼leï¼Œstartï¼leï¼Œcoupï¼leï¼Œ sparkï¼le
 
-ÕâÖÖÇé¿ö£¬Ã»ÓÐ°ÑÎÕÊ±£¬¿ÉÒÔ²éÔÄ´Êµä¡£
+è¿™ç§æƒ…å†µï¼Œæ²¡æœ‰æŠŠæ¡æ—¶ï¼Œå¯ä»¥æŸ¥é˜…è¯å…¸ã€‚
 
-¢Ü¿ÉÄÜ»¹ÓÐÆäËû»®·ÖÒô½ÚµÄ·½·¨£¬Èçun£­comfortableÒ»´Ê£¬ÓÐÈË»®³Éun£¯com£¯fort£¯a£¯ble£¬Ò²ÓÐÈË»®³Éun£¯com£¯for£¯ta£¯ble¡£²»¹ý£¬°´ÕÕÉÏÊö¹æÔò»®·Ö£¬Ò»°ã²»Ëã´í¡£
+â‘£å¯èƒ½è¿˜æœ‰å…¶ä»–åˆ’åˆ†éŸ³èŠ‚çš„æ–¹æ³•ï¼Œå¦‚unï¼comfortableä¸€è¯ï¼Œæœ‰äººåˆ’æˆunï¼comï¼fortï¼aï¼bleï¼Œä¹Ÿæœ‰äººåˆ’æˆunï¼comï¼forï¼taï¼bleã€‚ä¸è¿‡ï¼ŒæŒ‰ç…§ä¸Šè¿°è§„åˆ™åˆ’åˆ†ï¼Œä¸€èˆ¬ä¸ç®—é”™ã€‚
 
 http://www.yingyudaxue.com/books/english-study-handbooks-14

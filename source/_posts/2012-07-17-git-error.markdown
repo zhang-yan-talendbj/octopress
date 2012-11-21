@@ -6,8 +6,8 @@ comments: true
 categories: 
 ---
 
-��һ��ʱ�䣬git�����������ơ�d:\Program �� �޷��ҵ�����Ĵ���֮�������°�װgit��ȥ����װ·���еĿո񣬿ɻ����д���
-�⼸���о���git����svn�Ŀ⣬������git��Ŀ¼�µ�setup.ini�ļ�����
+有一段时间，git经常出现类似“d:\Program ” 无法找到命令的错误，之后我重新安装git，去掉安装路径中的空格，可还是有错误。
+这几天研究用git连接svn的库，发现在git根目录下的setup.ini文件中有
 	GIT_SSH=D:\Program Files\TortoiseSVN\bin\TortoisePlink.exe
 	SVN_SSH="D:\\Program Files\\TortoiseSVN\\bin\\TortoisePlink.exe"
-�Ҳ�Ӧԭ��������ɾ������git�Ϳ�������ʹ���ˡ�
+我猜应原因就在这里，删除掉后，git就可以正常使用了。
